@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75327861238",
+    "firebase_url": "https://photo-blog-udacity.firebaseio.com",
+    "project_id": "photo-blog-udacity",
+    "storage_bucket": "photo-blog-udacity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75327861238:android:656049c372ef59c26d57d7",
+        "android_client_info": {
+          "package_name": "com.ak.photo_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75327861238-p2c425935mono0t9gqs036hadak3si4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mJ7lSZtkfVImODMXsW8LdsWTHMBKUa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75327861238-p2c425935mono0t9gqs036hadak3si4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

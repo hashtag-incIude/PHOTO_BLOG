@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PHOTO_BLOG</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="newaccount">New Account?</string>
+    <string name="postblog">Post Blog</string>
+    <string name="entermail">Enter E-mail</string>
+    <string name="register">Register</string>
+    <string name="reenterpassword">Re-Enter Password</string>
+    <string name="enterpasswod">Enter Password</string>
+    <string name="saveaccount">Save account Settings</string>
+    <string name="Username">Username</string>
+    <string name="BlogPostDate">Blog Post Date</string>
+    <string name="descr">Don’t base your decisions on the advice of those who won’t have to deal with the results.</string>
+    <string name="likes">0 Likes</string>
+    <string name="entermessage">Enter Your Message</string>
+    <string name="send">Send</string>
+    <string name="Notifiuation">Notification should be shown here</string>
+    <string name="Message">Message</string>
+    <string name="Name">Name</string>
+    <string name="alreadyaccount">Already have a Accout?</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_e_mail">Enter E-mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="press_me">Press me for the surprise</string>
+    <string name="anukul_kumar">Anukul Kumar</string>
+    <string name="android_apps_developer">Android Apps Developer</string>
+    <string name="don_t_base_your_decisions_on_the_advice_of_those_who_won_t_have_to_deal_with_the_results">Don’t base your decisions on the advice of those who won’t have to deal with the results.</string>
+    <string name="india">INDIA</string>
+</resources>
